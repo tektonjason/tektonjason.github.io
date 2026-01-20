@@ -7,14 +7,14 @@
   "theme_color": "#ffffff",
   "icons": [
     {
-      "src": "/ARCHIPEDIA图标.png",
-      "sizes": "192x192",
+      "src": "/ARCHIPEDIAICON.png",
+      "sizes": "144x144",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "/ARCHIPEDIA图标.png",
-      "sizes": "512x512",
+      "src": "/ARCHIPEDIAICON.png",
+      "sizes": "144x144",
       "type": "image/png",
       "purpose": "any maskable"
     }

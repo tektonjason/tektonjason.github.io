@@ -5,7 +5,7 @@ export default defineConfig({
   plugins: [
     VitePWA({
       registerType: 'autoUpdate',
-      includeAssets: ['ARCHIPEDIA图标.png'],
+      includeAssets: ['ARCHIPEDIAICON.png'],
       manifest: {
         name: 'Archipedia',
         short_name: 'Archipedia',
@@ -15,8 +15,8 @@ export default defineConfig({
         theme_color: '#ffffff',
         icons: [
           {
-            src: '/ARCHIPEDIA图标.png',
-            sizes: '512x512',
+            src: '/ARCHIPEDIAICON.png',
+            sizes: '144x144',
             type: 'image/png'
           }
         ]

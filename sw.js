@@ -3,7 +3,7 @@ const ASSETS_TO_CACHE = [
   '/',
   '/index.html',
   '/manifest.webmanifest',
-  '/ARCHIPEDIA图标.png',
+  '/ARCHIPEDIAICON.png',
   '/main-GFXW7RCB.js'
 ];
 
