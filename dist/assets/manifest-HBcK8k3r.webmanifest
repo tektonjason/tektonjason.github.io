@@ -1,19 +1,19 @@
 {
   "name": "Archipedia",
   "short_name": "Archipedia",
-  "start_url": "/",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
   "icons": [
     {
-      "src": "/ARCHIPEDIAICON.png",
+      "src": "./ARCHIPEDIAICON.png",
       "sizes": "144x144",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "/ARCHIPEDIAICON.png",
+      "src": "./ARCHIPEDIAICON.png",
       "sizes": "144x144",
       "type": "image/png",
       "purpose": "any maskable"
