@@ -1,10 +1,12 @@
 {
   "devDependencies": {
-    "vite-plugin-pwa": "^1.2.0"
-  }
-  ,"scripts": {
+    "vite-plugin-pwa": "^1.2.0",
+    "remix": "^1.0.0",
+    "@remix-run/dev": "^1.0.0"
+  },
+  "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "remix vite:build",
     "preview": "vite preview"
   }
 }
