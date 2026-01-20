@@ -2,7 +2,7 @@ import { defineConfig } from 'vite'
 import { VitePWA } from 'vite-plugin-pwa'
 
 export default defineConfig({
-  base: '/tektonjason.github.io/',
+  base: '/',
   plugins: [
     VitePWA({
       registerType: 'autoUpdate',
