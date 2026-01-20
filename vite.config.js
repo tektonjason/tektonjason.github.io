@@ -19,6 +19,16 @@ export default defineConfig({
               src: './ARCHIPEDIAICON.png',
               sizes: '144x144',
               type: 'image/png'
+            },
+            {
+              src: './ARCHIPEDIAICON.png',
+              sizes: '192x192',
+              type: 'image/png'
+            },
+            {
+              src: './ARCHIPEDIAICON.png',
+              sizes: '512x512',
+              type: 'image/png'
             }
           ]
         }
