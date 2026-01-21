@@ -9,7 +9,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@remix-run/node": "^2.17.4",
     "isbot": "^4"
   }
 }
